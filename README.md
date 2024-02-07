@@ -9,7 +9,7 @@
    
 # USAGE
 1. Use the python script as follows
-   python3 test-05.py https://support.microsoft.com/help/5034122
+   ##python3 superseed.py https://support.microsoft.com/help/5034122
 NOTE:- you can change the hotfix id at the last of the url https://support.microsoft.com/help/{ CHANGE HERE }
 
 2. The Output will give you superseeded update link if available or will give the link of same hotfix mentioned in input
