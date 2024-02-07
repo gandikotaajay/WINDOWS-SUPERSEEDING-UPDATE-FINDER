@@ -1,6 +1,6 @@
 # WINDOWS-SUPERSEEDING-PATCH-FINDER
 
-# PREREQUISITES
+# PRE-REQUISITES
 1. Install python3 and pip
    apt install python3 pip
 2. Install python libraries
